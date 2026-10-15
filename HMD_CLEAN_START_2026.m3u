@@ -1,0 +1,251 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SBC" group-title="🇸🇦 السعودية",SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 tvg-name="الإخبارية السعودية" group-title="🇸🇦 السعودية",الإخبارية السعودية
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-name="الثقافية السعودية" group-title="🇸🇦 السعودية",الثقافية السعودية
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+#EXTINF:-1 tvg-name="السعودية الآن" group-title="🇸🇦 السعودية",السعودية الآن
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+#EXTINF:-1 tvg-name="السعودية الأولى" group-title="🇸🇦 السعودية",السعودية الأولى
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-name="ذكريات" group-title="🇸🇦 السعودية",ذكريات
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+#EXTINF:-1 tvg-name="قناة السنة النبوية - المدينة" group-title="🕋 ديني",قناة السنة النبوية - المدينة
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-name="قناة القرآن الكريم" group-title="🕋 ديني",قناة القرآن الكريم
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-name="قناة مكة" group-title="🕋 ديني",قناة مكة
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-name="الأردن الرياضية" group-title="⚽ رياضة",الأردن الرياضية
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-name="البحرين الرياضية 1" group-title="⚽ رياضة",البحرين الرياضية 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-name="البحرين الرياضية 2" group-title="⚽ رياضة",البحرين الرياضية 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-name="الرياضية المغربية" group-title="⚽ رياضة",الرياضية المغربية
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-name="السعودية الرياضية 1" group-title="⚽ رياضة",السعودية الرياضية 1
+https://aloula-redirect.vercel.app/9/playlist.m3u8
+#EXTINF:-1 tvg-name="السعودية الرياضية 2" group-title="⚽ رياضة",السعودية الرياضية 2
+https://aloula-redirect.vercel.app/10/playlist.m3u8
+#EXTINF:-1 tvg-name="السعودية الرياضية 3" group-title="⚽ رياضة",السعودية الرياضية 3
+https://aloula-redirect.vercel.app/16/playlist.m3u8
+#EXTINF:-1 tvg-name="الشارقة الرياضية" group-title="⚽ رياضة",الشارقة الرياضية
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="العراقية الرياضية" group-title="⚽ رياضة",العراقية الرياضية
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 tvg-name="الكأس 1" group-title="⚽ رياضة",الكأس 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 tvg-name="الكأس 2" group-title="⚽ رياضة",الكأس 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-name="الكأس 3" group-title="⚽ رياضة",الكأس 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-name="الكأس 4" group-title="⚽ رياضة",الكأس 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-name="الكأس 6" group-title="⚽ رياضة",الكأس 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-name="الكأس شوف" group-title="⚽ رياضة",الكأس شوف
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+#EXTINF:-1 tvg-name="الكأس شوف 2" group-title="⚽ رياضة",الكأس شوف 2
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+#EXTINF:-1 tvg-name="الكويت الرياضية" group-title="⚽ رياضة",الكويت الرياضية
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="الكويت الرياضية بلس" group-title="⚽ رياضة",الكويت الرياضية بلس
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="الهداف" group-title="⚽ رياضة",الهداف
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 tvg-name="ثمانية 1" group-title="⚽ رياضة",ثمانية 1
+https://dflive.app.tc/20.m3u8
+#EXTINF:-1 tvg-name="ثمانية 2" group-title="⚽ رياضة",ثمانية 2
+https://dflive.app.tc/60.m3u8
+#EXTINF:-1 tvg-name="ثمانية 3" group-title="⚽ رياضة",ثمانية 3
+https://dflive.app.tc/61.m3u8
+#EXTINF:-1 tvg-name="دبي الرياضية 1" group-title="⚽ رياضة",دبي الرياضية 1
+https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="دبي الرياضية 2" group-title="⚽ رياضة",دبي الرياضية 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="عُمان الرياضية" group-title="⚽ رياضة",عُمان الرياضية
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="SSC - Official" group-title="⚽ روابط رسمية",SSC - Official
+https://www.youtube.com/@ssc
+#EXTINF:-1 tvg-name="beIN SPORTS NEWS - Official" group-title="⚽ روابط رسمية",beIN SPORTS NEWS - Official
+https://www.youtube.com/@beinsportsnews4297
+#EXTINF:-1 tvg-name="MBC 1" group-title="📺 MBC",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:-1 tvg-name="MBC 2" group-title="📺 MBC",MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8
+#EXTINF:-1 tvg-name="MBC 3" group-title="📺 MBC",MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-name="MBC 4" group-title="📺 MBC",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 tvg-name="MBC 5" group-title="📺 MBC",MBC 5
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8
+#EXTINF:-1 tvg-name="MBC Action" group-title="📺 MBC",MBC Action
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8
+#EXTINF:-1 tvg-name="MBC Bollywood" group-title="📺 MBC",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-name="MBC Drama" group-title="📺 MBC",MBC Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+#EXTINF:-1 tvg-name="MBC FM" group-title="📺 MBC",MBC FM
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
+#EXTINF:-1 tvg-name="MBC Iraq" group-title="📺 MBC",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-name="MBC Masr" group-title="📺 MBC",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+#EXTINF:-1 tvg-name="MBC Masr 2" group-title="📺 MBC",MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 tvg-name="MBC Masr Drama" group-title="📺 MBC",MBC Masr Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+#EXTINF:-1 tvg-name="MBC Max" group-title="📺 MBC",MBC Max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8
+#EXTINF:-1 tvg-name="MBC+ Drama" group-title="📺 MBC",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-name="Wanasah" group-title="📺 MBC",Wanasah
+https://wanasah-prod-dub-enc.edgenextcdn.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-name="LBC" group-title="🎬 روتانا",LBC
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="الرسالة" group-title="🎬 روتانا",الرسالة
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="روتانا خليجية" group-title="🎬 روتانا",روتانا خليجية
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="روتانا دراما" group-title="🎬 روتانا",روتانا دراما
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="روتانا سينما KSA" group-title="🎬 روتانا",روتانا سينما KSA
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="روتانا سينما مصر" group-title="🎬 روتانا",روتانا سينما مصر
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="روتانا كلاسيك" group-title="🎬 روتانا",روتانا كلاسيك
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="روتانا كليب" group-title="🎬 روتانا",روتانا كليب
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="روتانا كوميدي" group-title="🎬 روتانا",روتانا كوميدي
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="روتانا ميوزك" group-title="🎬 روتانا",روتانا ميوزك
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="CNBC عربية" group-title="📰 أخبار",CNBC عربية
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-name="الجزيرة" group-title="📰 أخبار",الجزيرة
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-name="الجزيرة مباشر" group-title="📰 أخبار",الجزيرة مباشر
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-name="الحدث" group-title="📰 أخبار",الحدث
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+#EXTINF:-1 tvg-name="الشرق للأخبار" group-title="📰 أخبار",الشرق للأخبار
+https://live-news.asharq.com/asharq.m3u8
+#EXTINF:-1 tvg-name="العربية" group-title="📰 أخبار",العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="سكاي نيوز عربية" group-title="📰 أخبار",سكاي نيوز عربية
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+#EXTINF:-1 tvg-name="CNN Arabic - Official" group-title="📰 روابط رسمية",CNN Arabic - Official
+https://arabic.cnn.com/
+#EXTINF:-1 tvg-name="Ch4Teen Documentary" group-title="🌍 وثائقي",Ch4Teen Documentary
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="🌍 وثائقي",Red Bull TV
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+#EXTINF:-1 tvg-name="الجزيرة الوثائقية" group-title="🌍 وثائقي",الجزيرة الوثائقية
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-name="الشرق Discovery" group-title="🌍 وثائقي",الشرق Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="الشرق الوثائقية" group-title="🌍 وثائقي",الشرق الوثائقية
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="عمان الثقافية" group-title="🌍 وثائقي",عمان الثقافية
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="ناشيونال جيوغرافيك أبوظبي" group-title="🌍 وثائقي",ناشيونال جيوغرافيك أبوظبي
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-name="Roya Kids" group-title="👶 أطفال",Roya Kids
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/RoyaKids/playlist.m3u8
+#EXTINF:-1 tvg-name="Roya Kids Originals" group-title="👶 أطفال",Roya Kids Originals
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/RoyaKidsOriginals/playlist.m3u8
+#EXTINF:-1 tvg-name="Tunes Kids - Official" group-title="👶 أطفال",Tunes Kids - Official
+https://www.pixitoon.com/tunes-kids-1
+#EXTINF:-1 tvg-name="أسرتنا TV - بث رسمي" group-title="👶 أطفال",أسرتنا TV - بث رسمي
+https://www.youtube.com/watch?v=uiuezjJpdnA
+#EXTINF:-1 tvg-name="سبيستون" group-title="👶 أطفال",سبيستون
+#EXTVLCOPT:http-referrer=https://spacetoon.com
+https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
+#EXTINF:-1 tvg-name="ماجد للأطفال" group-title="👶 أطفال",ماجد للأطفال
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Aflam" group-title="🎭 أفلام ومسلسلات",Aflam
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+#EXTINF:-1 tvg-name="Big Time Plus" group-title="🎭 أفلام ومسلسلات",Big Time Plus
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+#EXTINF:-1 tvg-name="CBC" group-title="🎭 أفلام ومسلسلات",CBC
+https://flu.systemnet.tv/CBC/index.m3u8
+#EXTINF:-1 tvg-name="CBC Drama" group-title="🎭 أفلام ومسلسلات",CBC Drama
+https://flu.systemnet.tv/CBCDrama/index.m3u8
+#EXTINF:-1 tvg-name="CBC Sofra" group-title="🎭 أفلام ومسلسلات",CBC Sofra
+https://flu.systemnet.tv/CBCSofra/index.m3u8
+#EXTINF:-1 tvg-name="Mix Hollywood" group-title="🎭 أفلام ومسلسلات",Mix Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 tvg-name="Movies Action" group-title="🎭 أفلام ومسلسلات",Movies Action
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies Thriller" group-title="🎭 أفلام ومسلسلات",Movies Thriller
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 tvg-name="باب الحارة" group-title="🎭 أفلام ومسلسلات",باب الحارة
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+#EXTINF:-1 tvg-name="أغاني أغاني" group-title="🎵 موسيقى",أغاني أغاني
+https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
+#EXTINF:-1 tvg-name="راشد الماجد" group-title="🎵 موسيقى",راشد الماجد
+https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+#EXTINF:-1 tvg-name="فيروز" group-title="🎵 موسيقى",فيروز
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+#EXTINF:-1 tvg-name="محمد عبده" group-title="🎵 موسيقى",محمد عبده
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
+#EXTINF:-1 tvg-name="Alan Walker - Live" group-title="🎧 DJ",Alan Walker - Live
+https://www.youtube.com/@Alanwalkermusic/live
+#EXTINF:-1 tvg-name="Armin van Buuren - Live" group-title="🎧 DJ",Armin van Buuren - Live
+https://www.youtube.com/@arminvanbuuren/live
+#EXTINF:-1 tvg-name="David Guetta - Live" group-title="🎧 DJ",David Guetta - Live
+https://www.youtube.com/@davidguetta/live
+#EXTINF:-1 tvg-name="Martin Garrix - Live" group-title="🎧 DJ",Martin Garrix - Live
+https://www.youtube.com/@MartinGarrix/live
+#EXTINF:-1 tvg-name="Tiësto - Live" group-title="🎧 DJ",Tiësto - Live
+https://www.youtube.com/@tiesto/live
+#EXTINF:-1 tvg-name="Tomorrowland - One World Radio LIVE" group-title="🎧 DJ",Tomorrowland - One World Radio LIVE
+https://www.youtube.com/watch?v=ewxa6GuHxrk
+#EXTINF:-1 tvg-name="البحرين" group-title="📡 خليجي وعربي",البحرين
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 tvg-name="البحرين الدولية" group-title="📡 خليجي وعربي",البحرين الدولية
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 tvg-name="الشارقة" group-title="📡 خليجي وعربي",الشارقة
+https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8
+#EXTINF:-1 tvg-name="الفجيرة" group-title="📡 خليجي وعربي",الفجيرة
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="الكويت 1" group-title="📡 خليجي وعربي",الكويت 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="الكويت 2" group-title="📡 خليجي وعربي",الكويت 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="الكويت القرين" group-title="📡 خليجي وعربي",الكويت القرين
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="دبي" group-title="📡 خليجي وعربي",دبي
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="دبي زمان" group-title="📡 خليجي وعربي",دبي زمان
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="سما دبي" group-title="📡 خليجي وعربي",سما دبي
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="عجمان" group-title="📡 خليجي وعربي",عجمان
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="عمان مباشر" group-title="📡 خليجي وعربي",عمان مباشر
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="عُمان" group-title="📡 خليجي وعربي",عُمان
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="قطر 1" group-title="📡 خليجي وعربي",قطر 1
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+#EXTINF:-1 tvg-name="قطر 2" group-title="📡 خليجي وعربي",قطر 2
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
+
+# NOTE: fresh list rebuilt for CarTV 1.1.3.
+# beIN/SSC pay channels are not included as unauthorized streams; only official public pages where available.
+# YouTube/web entries may not resolve in CarTV; direct HLS/M3U8 entries are preferred.
+# Thmanyah public HLS links have a history of expiring and may need replacement later.
